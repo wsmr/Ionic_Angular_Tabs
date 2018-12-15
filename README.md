@@ -1,5 +1,6 @@
 # Ionic_Angular_Tabs
-ionic 4.1.1 $ ionic start name tabs --type ionic-angular
+ionic 4.1.1<br>
+$ ionic start name tabs --type ionic-angular<br>
 
 
 Ionic Angular
