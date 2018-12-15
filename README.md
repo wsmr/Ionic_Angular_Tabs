@@ -14,21 +14,21 @@ Ionic Angular apps are written in TypeScript and Sass and are compiled and built
 
 ionic build and ionic serve use @ionic/app-scripts out of the box, so it doesn’t need to be invoked directly. It also ships with good defaults, but can be configured in a variety of ways. See README.md for configuration details.
 
-Project Structure
-project/
-├─ ionic.config.json # Ionic project config file
-├─ package.json
-├─ src/
-│  ├─ app/
-│  │  ├─ app.component.ts # root component for your app
-│  │  ├─ app.html # app component template
-│  │  ├─ app.module.ts # NgModule for app component
-│  │  ├─ app.scss # global SCSS
-│  │  └─ main.ts # bootstrap file
-│  ├─ assets/ # put your images, etc. here
-│  ├─ pages/ # contains the page components for your app
-│  ├─ theme/
-│  │  └─ variables.scss # see https://ionicframework.com/docs/theming
-│  └─ index.html # main html file
-└─ www/ # build output directory
+Project Structure<br>
+project/ <br>
+├─ ionic.config.json # Ionic project config file<br>
+├─ package.json<br>
+├─ src/<br>
+│  ├─ app/<br>
+│  │  ├─ app.component.ts # root component for your app<br>
+│  │  ├─ app.html # app component template<br>
+│  │  ├─ app.module.ts # NgModule for app component<br>
+│  │  ├─ app.scss # global SCSS<br>
+│  │  └─ main.ts # bootstrap file<br>
+│  ├─ assets/ # put your images, etc. here<br>
+│  ├─ pages/ # contains the page components for your app<br>
+│  ├─ theme/<br>
+│  │  └─ variables.scss # see https://ionicframework.com/docs/theming<br>
+│  └─ index.html # main html file<br>
+└─ www/ # build output directory<br>
 
